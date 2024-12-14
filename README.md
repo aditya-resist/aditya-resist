@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @aditya-resist
 - 👀 I’m interested in mathematics and coding
-- 🌱 I’m currently learning python, html, c
+- 🌱 I’m currently learning python, html, css, C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me modemhunt@gmail.com
-- 😄 Pronouns: not/gay
 - ⚡ Fun fact: ...
 
 <!---
